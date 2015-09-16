@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:00.842349
+#+DATE: 2015-08-30 20:02:01.804514
 #+TITLE: 佛說大乘入諸佛境界智光明莊嚴經
 #+PROPERTY: CBETA_ID T12n0359
 #+PROPERTY: ID KR6f0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 359
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0051_T_000-0253c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0051_T_005-0263b> ¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說大乘入諸佛境界智光明莊¶
+《佛說大乘入諸佛境界智光明莊¶
 嚴經》卷第五¶
 ¶
-譯經三藏朝散大夫試光祿卿傳梵¶
+譯經三藏朝散大夫試光祿卿光梵¶
 大師賜紫沙門臣惟淨等奉　詔譯¶
 
 #+BEGIN_VERSE
@@ -158,10 +157,7 @@
 為一眾生建立令住隨義行地，此所獲福無¶
 有稱量。¶
 
-「又，妙吉祥！若有菩薩能為十方一切世界一¶
-切眾生建立令住隨義行地；若有菩薩為一¶
-眾生建立令住隨法行地，此所獲福無有稱¶
-量。¶
+「又，妙吉祥！若有菩薩能為十方一切世界一切眾生建立令住隨義行地；若有菩薩為一眾生建立令住隨法行地，此所獲福無有稱量。¶
 
 「又，妙吉祥！若有菩薩能為十方一切世界一¶
 切眾生，建立令住隨法行地；若有菩薩為一¶
