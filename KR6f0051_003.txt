@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:00.791676
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:01
 #+TITLE: 佛說大乘入諸佛境界智光明莊嚴經
 #+PROPERTY: CBETA_ID T12n0359
 #+PROPERTY: ID KR6f0051
